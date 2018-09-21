@@ -3,10 +3,10 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>de.bflader</groupId>
-		<artifactId>band-helper</artifactId>
+		<artifactId>bandhelper</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<groupId>de.bflader.band-helper</groupId>
+	<groupId>de.bflader.bandhelper</groupId>
 	<artifactId>desktop-client</artifactId>
 	<properties>
 		<maven.compiler.target>1.8</maven.compiler.target>
